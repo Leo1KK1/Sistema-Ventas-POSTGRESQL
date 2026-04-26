@@ -75,7 +75,7 @@ npm start
 │   ├── src/
 │   ├── public/
 │   └── package.json
-└── env/              # Entorno virtual (no se sube a GitHub)
+└── env/            
 ```
 
 ## Licencia
